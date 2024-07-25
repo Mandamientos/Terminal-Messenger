@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\tarea 1 Algoritmos\Terminal-Messenger\obj\Debug\net6.0\Terminal-Messenger.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\tarea 1 Algoritmos\Terminal-Messenger\obj\Debug\net6.0\Terminal-Messenger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\tarea 1 Algoritmos\Terminal-Messenger\obj\Debug\net6.0\Terminal-Messenger.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\tarea 1 Algoritmos\Terminal-Messenger\obj\Debug\net6.0\Terminal-Messenger.AssemblyInfo.cs
+C:\Users\User\Desktop\tarea 1 Algoritmos\Terminal-Messenger\obj\Debug\net6.0\Terminal-Messenger.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tarea 1 Algoritmos\Terminal-Messenger\bin\Debug\net6.0\Terminal-Messenger.exe
+C:\Users\User\Desktop\tarea 1 Algoritmos\Terminal-Messenger\bin\Debug\net6.0\Terminal-Messenger.deps.json
+C:\Users\User\Desktop\tarea 1 Algoritmos\Terminal-Messenger\bin\Debug\net6.0\Terminal-Messenger.runtimeconfig.json
+C:\Users\User\Desktop\tarea 1 Algoritmos\Terminal-Messenger\bin\Debug\net6.0\Terminal-Messenger.dll
+C:\Users\User\Desktop\tarea 1 Algoritmos\Terminal-Messenger\bin\Debug\net6.0\Terminal-Messenger.pdb
+C:\Users\User\Desktop\tarea 1 Algoritmos\Terminal-Messenger\obj\Debug\net6.0\Terminal-Messenger.dll
+C:\Users\User\Desktop\tarea 1 Algoritmos\Terminal-Messenger\obj\Debug\net6.0\refint\Terminal-Messenger.dll
+C:\Users\User\Desktop\tarea 1 Algoritmos\Terminal-Messenger\obj\Debug\net6.0\Terminal-Messenger.pdb
+C:\Users\User\Desktop\tarea 1 Algoritmos\Terminal-Messenger\obj\Debug\net6.0\Terminal-Messenger.genruntimeconfig.cache
+C:\Users\User\Desktop\tarea 1 Algoritmos\Terminal-Messenger\obj\Debug\net6.0\ref\Terminal-Messenger.dll
